@@ -6,7 +6,7 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "EssentialBaskets - Send food to your loved ones in Rwanda",
+  title: "Dusangire - Send food to your loved ones in Rwanda",
   description:
     "We're building a simple way for you to support your family with real food baskets delivered locally in Rwanda. No cash transfers. Just peace of mind.",
     generator: 'v0.dev'

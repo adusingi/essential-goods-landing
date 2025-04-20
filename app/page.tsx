@@ -11,7 +11,7 @@ export default function LandingPage() {
         <div className="container flex h-16 items-center justify-between px-4 md:px-6">
           <div className="flex items-center gap-2">
             <ShoppingBasket className="h-6 w-6 text-green-600" />
-            <span className="text-lg font-bold">EssentialBaskets</span>
+            <span className="text-lg font-bold">Dusangire</span>
           </div>
           <nav className="hidden md:flex gap-6">
             <Link href="#how-it-works" className="text-sm font-medium hover:underline underline-offset-4">
@@ -332,7 +332,7 @@ export default function LandingPage() {
         <div className="container flex flex-col items-center justify-between gap-4 md:h-24 md:flex-row px-4 md:px-6">
           <div className="flex items-center gap-2">
             <ShoppingBasket className="h-5 w-5 text-green-600" />
-            <p className="text-sm text-gray-500">© 2025 EssentialBaskets. All rights reserved.</p>
+            <p className="text-sm text-gray-500">© 2025 Dusangire. All rights reserved.</p>
           </div>
           <nav className="flex gap-4 sm:gap-6">
             <Link href="#" className="text-sm font-medium hover:underline underline-offset-4">
